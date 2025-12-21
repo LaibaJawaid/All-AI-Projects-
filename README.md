@@ -109,7 +109,7 @@ It is designed for:
 ## 📬 Contact
 
 📌 **GitHub:** [https://github.com/LaibaJawaid](https://github.com/LaibaJawaid)
----
+
 📌 **LinkedIn:** [https://linkedin.com/in/laiba-jawaid/](https://linkedin.com/in/laiba-jawaid/)
 
 ⭐ If you find these projects useful, feel free to explore and star individual repositories!
